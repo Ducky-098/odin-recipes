@@ -1,0 +1,15 @@
+div.bold-text {
+	font-weight: 700;
+}
+
+#heading {
+	color: purple;
+}
+
+.ingredients {
+	color: red;
+}
+
+body {
+	background-color: yellow;
+}
